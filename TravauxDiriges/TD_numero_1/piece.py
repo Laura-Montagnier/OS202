@@ -29,7 +29,7 @@ else:
     jeton = comm.recv(source=source_rank)
     
 
-    print(f"Le jeton est égal à {jeton}")
+    
     
     
     jeton += 1

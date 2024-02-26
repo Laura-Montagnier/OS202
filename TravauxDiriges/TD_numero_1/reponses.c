@@ -17,5 +17,7 @@ Il faut donc maximiser le parcours par colonnes :
 
 Question 2 :
 
+...
 
+Voir le pdf de réponse (il est plus complet, j'avais besoin d'ajouter des images et des tableaux).
 */
